@@ -2,3 +2,5 @@
 .user.yml
 /logs
 logs
+target/
+dbt_packages/
